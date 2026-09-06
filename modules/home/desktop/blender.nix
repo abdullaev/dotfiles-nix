@@ -1,9 +1,9 @@
 {
-  flake.modules.homeManager.pob =
+  flake.modules.homeManager.blender =
     { pkgs, ... }:
     {
       home.packages = with pkgs; [
-        rusty-path-of-building
+        blender
       ];
     };
 }

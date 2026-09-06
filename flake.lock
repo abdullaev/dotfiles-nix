@@ -70,22 +70,6 @@
         "type": "github"
       }
     },
-    "catppuccin-aseprite": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1786874975,
-        "narHash": "sha256-jI30YM2UDP5fAsiF+7iwaNdr2UyEQ+yx5wTEAi3BY04=",
-        "owner": "catppuccin",
-        "repo": "aseprite",
-        "rev": "c4c95e3a412526e7b8a94ed85df33b4a9e7cb0e9",
-        "type": "github"
-      },
-      "original": {
-        "owner": "catppuccin",
-        "repo": "aseprite",
-        "type": "github"
-      }
-    },
     "catppuccin-palette": {
       "flake": false,
       "locked": {
@@ -416,7 +400,6 @@
       "inputs": {
         "anthropic-skills": "anthropic-skills",
         "catppuccin": "catppuccin",
-        "catppuccin-aseprite": "catppuccin-aseprite",
         "catppuccin-palette": "catppuccin-palette",
         "disko": "disko",
         "firefox-addons": "firefox-addons",

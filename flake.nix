@@ -85,10 +85,6 @@
       url = "github:sahaj-b/ghostty-cursor-shaders";
       flake = false;
     };
-    catppuccin-aseprite = {
-      url = "github:catppuccin/aseprite";
-      flake = false;
-    };
     ru-ip-list = {
       url = "github:abdullaev/ru-ip-list";
       flake = false;

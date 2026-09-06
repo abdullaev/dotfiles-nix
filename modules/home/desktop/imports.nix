@@ -7,7 +7,8 @@
   ++ (with config.flake.modules.homeManager; [
     plasma
     mpv
-    aseprite
+    godot
+    blender
     discord
     ghostty
     telegram
@@ -15,7 +16,6 @@
     qbittorrent
     mangohud
     firefox
-    pob
     obsidian
     xdg
   ]);
